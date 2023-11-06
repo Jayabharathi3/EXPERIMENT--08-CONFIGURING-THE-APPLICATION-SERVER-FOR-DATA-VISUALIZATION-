@@ -36,7 +36,7 @@ As the application server market matures, high performance becomes a stronger cr
 ![WhatsApp Image 2023-11-04 at 16 17 01_9ba6ca99](https://github.com/Jayabharathi3/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/120367796/0418d9fb-5234-44c9-a06c-983b97207a50)
 
 
-## WIDGET :
+## DASHBOARD :
 ![WhatsApp Image 2023-11-04 at 16 17 53_a819e2f7](https://github.com/Jayabharathi3/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/120367796/e6d21dd7-ab2f-4e04-a930-5c1be3e24904)
 
  
